@@ -1,0 +1,16 @@
+Mode,Debug
+,Operation
+Employee ID,62074
+Process Name,FCT2
+Station Name,PROGRAM_1
+Computer Name,BOS-PC-FCT1
+Database Name,TPR_PRISM
+,TPP_PRISM
+Database Server TPP,192.168.11.38
+Database Server TPR,192.168.10.19
+Check Process Before,TRUE
+,FALSE
+Process Before,ICT
+Digit SN,13
+Up Data To Komson,TRUE
+,FALSE

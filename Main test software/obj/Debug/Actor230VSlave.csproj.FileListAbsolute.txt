@@ -1,0 +1,35 @@
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\Connect.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\USBClass.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.csprojAssemblyReference.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.csproj.GenerateResource.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.csproj.CoreCompileInputs.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.csproj.CopyComplete
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.Form230VSlave.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.Matrix_Relay_Control.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T206-LF_747-2460000\obj\Debug\Actor230VSlave.PopUp.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\Connect.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\USBClass.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\NationalInstruments.VBAI.2008.dll
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.csprojResolveAssemblyReference.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.csproj.WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.Form230VSlave.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.Matrix_Relay_Control.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.PopUp.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\Actor230VSlave.csproj.GenerateResource.Cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T227-248-LF_BOX BUILD\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,34 @@
+C:\Users\KM\Desktop\New Template\bin\Debug\Connect.cs
+C:\Users\KM\Desktop\New Template\bin\Debug\USBClass.cs
+C:\Users\KM\Desktop\New Template\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\KM\Desktop\New Template\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\KM\Desktop\New Template\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\KM\Desktop\New Template\bin\Debug\NationalInstruments.Vision.Common.xml
+C:\Users\KM\Desktop\New Template\obj\Debug\NIKO.csprojAssemblyReference.cache
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.exe.config
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.NIKO.resources
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.Matrix_Relay_Control.resources
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.PopUp.resources
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\KM\Desktop\New Template\obj\Debug\NIKO.csproj.GenerateResource.cache
+C:\Users\KM\Desktop\New Template\obj\Debug\NIKO.csproj.CoreCompileInputs.cache
+C:\Users\KM\Desktop\New Template\obj\Debug\NIKO.csproj.CopyComplete
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\KM\Desktop\New Template\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\Connect.cs
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\USBClass.cs
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\NIKO.csprojAssemblyReference.cache
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.NIKO.resources
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.Matrix_Relay_Control.resources
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\NIKO.csproj.GenerateResource.cache
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\NIKO.csproj.CoreCompileInputs.cache
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\NIKO.csproj.CopyComplete
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2019_Niko_Easy-Wave-Series\2.Design Document\8.Test Application Program\1.Power board 440 441 and 443 same fixture\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,50 @@
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\PlcScada.exe
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\PlcScada.deps.json
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\PlcScada.runtimeconfig.json
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\PlcScada.dll
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\PlcScada.pdb
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\EasyModbus.dll
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.AssemblyReference.cache
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.AssemblyInfoInputs.cache
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.AssemblyInfo.cs
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.CoreCompileInputs.cache
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.Up2Date
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.dll
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\refint\PlcScada.dll
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.pdb
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\PlcScada.genruntimeconfig.cache
+D:\Project Test\New folder (2)\PlcScada\obj\Debug\net8.0-windows\ref\PlcScada.dll
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\Project Test\New folder (2)\PlcScada\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\PlcScada.exe
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\PlcScada.deps.json
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\PlcScada.runtimeconfig.json
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\PlcScada.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\PlcScada.pdb
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\EasyModbus.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.AssemblyReference.cache
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.GeneratedMSBuildEditorConfig.editorconfig
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.AssemblyInfoInputs.cache
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.AssemblyInfo.cs
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.CoreCompileInputs.cache
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.csproj.Up2Date
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\refint\PlcScada.dll
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.pdb
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\PlcScada.genruntimeconfig.cache
+D:\svn\2025_12_KWN_sample_fixture\2.Design_Documents\7.Test_Application\PlcScada\obj\Debug\net8.0-windows\ref\PlcScada.dll

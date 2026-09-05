@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NIDAQTester12.Core/1.0.0": {
+        "runtime": {
+          "NIDAQTester12.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NIDAQTester12.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

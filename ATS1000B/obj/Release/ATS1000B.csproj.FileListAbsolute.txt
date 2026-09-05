@@ -1,0 +1,6 @@
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\bin\Release\ATS1000B.exe
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\bin\Release\ATS1000B.pdb
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\obj\Release\ATS1000B.csproj.AssemblyReference.cache
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\obj\Release\ATS1000B.csproj.CoreCompileInputs.cache
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\obj\Release\ATS1000B.exe
+C:\Users\anocha\Downloads\New folder (2)\ATS1000B\obj\Release\ATS1000B.pdb

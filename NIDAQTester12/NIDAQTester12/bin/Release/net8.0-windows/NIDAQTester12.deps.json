@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NIDAQTester12/1.0.0": {
+        "dependencies": {
+          "NIDAQTester12.Core": "1.0.0"
+        },
+        "runtime": {
+          "NIDAQTester12.dll": {}
+        }
+      },
+      "NIDAQTester12.Core/1.0.0": {
+        "runtime": {
+          "NIDAQTester12.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NIDAQTester12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NIDAQTester12.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,47 @@
+Add a project reference to NIDAQTester12.Core in your main program's .csproj:
+
+  <ItemGroup>
+    <ProjectReference Include="path\to\NIDAQTester12.Core\NIDAQTester12.Core.csproj" />
+  </ItemGroup>
+
+  Then use it like this:
+
+  using NIDAQTester12;
+
+  // 1. Create and configure
+  var daq = new DaqManager12();
+  daq.Initialize(sampleRate: 5000, samplesPerBlock: 500);
+
+  // 2. Start acquisition
+  daq.Start();
+
+  // 3. Read in a loop (blocking — run on a background thread)
+  while (running)
+  {
+      DaqMeasurement12 m = daq.ReadBlock();  // blocks until one block is ready
+
+      // m.Timestamp          — DateTime
+      // m.Tp37Voltage[0..11] — TP37 DC average in Volts, indexed by board (0 = Board 1)
+      // m.Tp33Voltage[0..11] — TP33 DC average in Volts
+      // m.LineCurrentRms[0..11] — True RMS current in Amperes
+  }
+
+  // 4. Stop and clean up
+  daq.Stop();
+  daq.Dispose();
+
+  Optional — use MeasurementSpec to validate readings:
+
+  var spec = new MeasurementSpec();          // defaults: TP37 3.2–3.4V, TP33 1.5–2V, I auto-detect
+  spec.CurrentTolerancePct = 3.0;            // tighten tolerance to ±3%
+
+  bool boardOk = spec.CheckAll(
+      m.Tp37Voltage[b],
+      m.Tp33Voltage[b],
+      m.LineCurrentRms[b]);
+
+  // or check individually:
+  bool tp37Ok = spec.CheckTp37(m.Tp37Voltage[b]);
+  bool iOk    = spec.CheckCurrent(m.LineCurrentRms[b]);  // auto-snaps to nearest mode
+
+  The only external dependency is the NI-DAQmx driver (nicaiu.dll in System32). No NuGet packages needed.

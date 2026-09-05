@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>NIDAQTester12</RootNamespace>
+    <AssemblyName>NIDAQTester12</AssemblyName>
+    <ApplicationHighDpiMode>SystemAware</ApplicationHighDpiMode>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+  <!-- NI-DAQmx P/Invoke + DAQ manager + spec model live in the Core library -->
+  <ItemGroup>
+    <ProjectReference Include="..\NIDAQTester12.Core\NIDAQTester12.Core.csproj" />
+  </ItemGroup>
+
+  <!-- Exclude files that were moved to Core so they are not compiled twice -->
+  <ItemGroup>
+    <Compile Remove="NiDaqmx.cs" />
+    <Compile Remove="DaqManager12.cs" />
+  </ItemGroup>
+</Project>

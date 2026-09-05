@@ -1,0 +1,28 @@
+Kill Chrome,FALSE
+,TRUE
+Kill Chrome Delay [ms],5000
+Call Exe,FALSE
+,TRUE
+Wait Up Data,FALSE
+,TRUE
+Select URL,IP
+,Iot
+URL of Iot,http://iot.teampcba.com:1880/PRISM/
+URL of IP,http://192.168.11.15:1880/PRISM/
+Skip Login via REST,TRUE
+,FALSE
+Project,LPP [FCT1]
+,Denali [FCT1]
+,Denali Nextgen [FCT1]
+,Denali Nextgen [FCT2]
+,Dry-ice [FCT1]
+,Linak10SMI [FCT1]
+,SMR [FCT1]
+,Sollatek [FCT1]
+,Sollatek [FCT2]
+,Sugarloaf [FCT1]
+,Valencell [FCT1]
+E-mail,Anocha@teampcba.com
+Password,1
+Call Exe Finger Print Scanner,FALSE
+,TRUE

@@ -1,0 +1,6 @@
+Status Label,BackColor
+,ForeColor
+Read 2D Barcode,Camera
+,Scanner
+Show DataGrid,FALSE
+,TRUE

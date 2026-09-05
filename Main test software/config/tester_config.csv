@@ -1,0 +1,31 @@
+Number of Head,12
+Use Relay Card,TRUE
+,FALSE
+Num Card Relay,1
+Test Panel,FALSE
+,TRUE
+Test Auto,TRUE
+,FALSE
+File TestDescription,Libre
+,Excel
+Name DMM,0x0957::0x4D18
+Name OSC,GPIB1::5::INSTR
+Scroll Datagrid,7
+Save Data Type,Normal
+,Special
+Allow Retest,TRUE
+,FALSE
+Updata Fail to Prism,TRUE
+,FALSE
+Click to Clear SN,FALSE
+,TRUE
+Show CMD,TRUE
+,FALSE
+Arduino Comport Main,COM4
+Komson Tester,FCT1_Tester_1
+Automation,FALSE
+,TRUE
+Fail To,Continue Cells
+,Continue All
+,Stop
+File Data Time Line,1

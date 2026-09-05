@@ -1,0 +1,361 @@
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\Test New DLL\WindowsFormsApplication1\bin\Debug\mcp2221_dll_m_dotnetv4_x86.dll
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\MCP2221DLL-M-dotNet4.dll
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\Connect.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\bin\Debug\Connect.cs
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\t_boy_000\Desktop\WindowsFormsApplication1\bin\Debug\USBClass.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\Connect.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\USBClass.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\USBClass.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\WindowsFormsApplication1\bin\Debug\MCP2221DLL-M-dotNet4.dll
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\Connect.cs
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\USBClass.cs
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\MCP2221DLL-M-dotNet4.dll
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\FASTCO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\Connect.cs
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\USBClass.cs
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\Connect.cs
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\USBClass.cs
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\MCP2221DLL-M-dotNet4.dll
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\New folder\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.pdb
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\Connect.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\USBClass.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.pdb
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\MCP2221DLL-M-dotNet4.dll
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\Connect.cs
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\USBClass.cs
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.exe.config
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.exe
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.pdb
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\WindowsFormsApplication1.pdb
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\TeamPrecision.AD.dll
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\TeamPrecision.DAL.dll
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with new hardware\bin\Debug\TeamPrecision.PRISM.dll
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.pdb
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\Connect.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\USBClass.cs
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.pdb
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\MCP2221DLL-M-dotNet4.dll
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Team Precision\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe.config
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.exe
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.pdb
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\Connect.cs
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\USBClass.cs
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.pdb
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SVN\2015_FASCO_MOTOR_CONTROL_MAIN_BOARD\2.Design Documents\7.Test Application Program\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\bin\Debug\Connect.cs
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\bin\Debug\USBClass.cs
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t_boy_000\Desktop\MainApp with burn in command\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\Connect.cs
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\USBClass.cs
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Apex_Tools\WE1\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\bin\Debug\Connect.cs
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\bin\Debug\USBClass.cs
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\t_boy_000\Desktop\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\Template\Test Software Template\bin\Debug\Connect.cs
+D:\svn\Template\Test Software Template\bin\Debug\USBClass.cs
+D:\svn\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\Connect.cs
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\USBClass.cs
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Bernard_CI2802\Design document\7.Test Application Program\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\bin\Debug\Connect.cs
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\bin\Debug\USBClass.cs
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\bin\Debug\Connect.cs
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\bin\Debug\USBClass.cs
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2016_Niko_Stand_Alone_Dimmer\2.Design Documents\7.Test Application Program\Rotary sample code\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\Connect.cs
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\USBClass.cs
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.csproj.WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2017_Niko_Rotary_Dimmer\2.Design Documents\7.Test Application Program\Main Test Application\WindowsFormsApplication Relay card V.2017\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\Connect.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\USBClass.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\Connect.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\USBClass.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppCtrlAndPower_NewFW\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\Connect.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\USBClass.cs
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2017_Niko_RfSmart_Dimmer\2.Design Documents\7.Test Application\MainAppRFsmartDimmer\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\Template\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\Template\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\Connect.cs
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\USBClass.cs
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\TeamPrecision.PRISM.dll
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_Niko_Nordic_Dimmer\2.Design Documents\7.Test Application\Nordic Test Software\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.WindowsFormsApplication1.exe.config
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\Connect.cs
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\USBClass.cs
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\0.Tools\Template\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\0.Tools\Template\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\Connect.cs
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\USBClass.cs
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.dll
+C:\Users\Dell\Desktop\Test Software Template\bin\Debug\NationalInstruments.Vision.Common.xml
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.PopUp.resources
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Dell\Desktop\Test Software Template\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.Matrix_Relay_Control.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\Connect.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\USBClass.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\Next Gen Test Software\1.Main Software\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\Connect.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\USBClass.cs
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\WindowsFormsApplication1.pdb
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\NationalInstruments.Vision.Common.dll
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\bin\Debug\NationalInstruments.Vision.Common.xml
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.exe.config
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.Matrix_Relay_Control.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.PopUp.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.exe
+D:\svn\2018_2_Next_Gen\2.Design Documents\7.Test Application\1. Next Gen Series Test Software\FG-61T203-LF_747-2430000\obj\Debug\WindowsFormsApplication1.pdb
