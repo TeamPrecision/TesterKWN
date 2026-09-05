@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\svn_KWN_1\\testerKWN\\",
+  "WorkspaceRootPath": "D:\\Github\\TesterKWN\\Main test software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|d:\\svn_kwn_1\\testerkwn\\function_in_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|d:\\github\\testerkwn\\main test software\\function_in_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|solutionrelative:function_in_excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|D:\\svn_KWN_1\\testerKWN\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|D:\\Github\\TesterKWN\\Main test software\\fmain.common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|solutionrelative:fmain.common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|D:\\Github\\TesterKWN\\Main test software\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|solutionrelative:fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|D:\\svn_KWN_1\\testerKWN\\fmain.events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|D:\\Github\\TesterKWN\\Main test software\\fmain.events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A21AF63C-C452-4FEC-9A49-E08D946E6A04}|ATS.csproj|solutionrelative:fmain.events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,15 +26,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "fMain.Common.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\Main test software\\fMain.Common.cs",
+              "RelativeDocumentMoniker": "fMain.Common.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\Main test software\\fMain.Common.cs",
+              "RelativeToolTip": "fMain.Common.cs",
+              "ViewState": "AgIAAO8DAAAAAAAAAAA8wBwGAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T09:26:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "fMain.Events.cs",
-              "DocumentMoniker": "D:\\svn_KWN_1\\testerKWN\\fMain.Events.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\Main test software\\fMain.Events.cs",
               "RelativeDocumentMoniker": "fMain.Events.cs",
-              "ToolTip": "D:\\svn_KWN_1\\testerKWN\\fMain.Events.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\Main test software\\fMain.Events.cs",
               "RelativeToolTip": "fMain.Events.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -38,11 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "fMain.cs [Design]",
-              "DocumentMoniker": "D:\\svn_KWN_1\\testerKWN\\fMain.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\Main test software\\fMain.cs",
               "RelativeDocumentMoniker": "fMain.cs",
-              "ToolTip": "D:\\svn_KWN_1\\testerKWN\\fMain.cs [Design]",
+              "ToolTip": "D:\\Github\\TesterKWN\\Main test software\\fMain.cs [Design]",
               "RelativeToolTip": "fMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T09:39:55.295Z"
@@ -51,11 +67,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Function_in_excel.cs",
-              "DocumentMoniker": "D:\\svn_KWN_1\\testerKWN\\Function_in_excel.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\Main test software\\Function_in_excel.cs",
               "RelativeDocumentMoniker": "Function_in_excel.cs",
-              "ToolTip": "D:\\svn_KWN_1\\testerKWN\\Function_in_excel.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\Main test software\\Function_in_excel.cs",
               "RelativeToolTip": "Function_in_excel.cs",
-              "ViewState": "AgIAADwBAAAAAAAAAADgv9kBAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADUGAAAAAAAAAAAuwEkGAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-28T02:48:29.06Z",
               "EditorCaption": ""

@@ -1298,3 +1298,26 @@ D:\svn_KWN_1\testerKWN\obj\Debug\ATS.csproj.CoreCompileInputs.cache
 D:\svn_KWN_1\testerKWN\obj\Debug\ATS.csproj.Up2Date
 D:\svn_KWN_1\testerKWN\obj\Debug\ATS.exe
 D:\svn_KWN_1\testerKWN\obj\Debug\ATS.pdb
+D:\Github\TesterKWN\Main test software\bin\Debug\ATS.exe.config
+D:\Github\TesterKWN\Main test software\bin\Debug\ATS.exe
+D:\Github\TesterKWN\Main test software\bin\Debug\ATS.pdb
+D:\Github\TesterKWN\Main test software\bin\Debug\EasyModbus.dll
+D:\Github\TesterKWN\Main test software\bin\Debug\Spire.License.dll
+D:\Github\TesterKWN\Main test software\bin\Debug\EasyModbus.xml
+D:\Github\TesterKWN\Main test software\bin\Debug\Spire.Common.xml
+D:\Github\TesterKWN\Main test software\bin\Debug\Spire.Pdf.xml
+D:\Github\TesterKWN\Main test software\bin\Debug\Spire.XLS.xml
+D:\Github\TesterKWN\Main test software\bin\Debug\TeamPrecision.PRISM.pdb
+D:\Github\TesterKWN\Main test software\bin\Debug\TeamPrecision.PRISM.dll.config
+D:\Github\TesterKWN\Main test software\bin\Debug\Spire.License.xml
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.csproj.AssemblyReference.cache
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.csproj.ResolveComReference.cache
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.Document.resources
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.fMain.resources
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.MiniForm.FormSetDataDrid.resources
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.Properties.Resources.resources
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.csproj.GenerateResource.cache
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.csproj.Up2Date
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.exe
+D:\Github\TesterKWN\Main test software\obj\Debug\ATS.pdb

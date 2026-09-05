@@ -1517,7 +1517,10 @@ namespace ATS
                                    File.ReadAllText(debugPath).Trim().Equals("True", StringComparison.OrdinalIgnoreCase);
 
                     camera_set_step("check_led_off");
-                    set_timeout(isDebug ? "999999000" : ((int)((timeoutSec - 3) * 1000)).ToString());
+                    set_timeout(isDebug ? "999999000" : ((int)((timeoutSec) * 1000)).ToString());
+
+                    const string pathTrick = "call_exe_tric.txt";
+                    File.Delete(pathTrick);
 
                     Process process = new Process();
                     process.StartInfo.CreateNoWindow = false;
@@ -1526,6 +1529,10 @@ namespace ATS
 
                     try { process.Start(); } catch { }
 
+                    DateTime trickDeadline = DateTime.Now.AddSeconds(10);
+                    while (!File.Exists(pathTrick) && DateTime.Now < trickDeadline && fMain.GlobalTestingFlag[fMain.select_test - 1])
+                        fMain.DelaymS(100);
+
                     if (isDebug)
                     {
                         while (!File.Exists(pathResult) && fMain.GlobalTestingFlag[fMain.select_test - 1])
@@ -1533,7 +1540,7 @@ namespace ATS
                     }
                     else
                     {
-                        DateTime deadline = DateTime.Now.AddSeconds(timeoutSec);
+                        DateTime deadline = DateTime.Now.AddSeconds(timeoutSec + 10);
                         while (!File.Exists(pathResult) && DateTime.Now < deadline)
                             fMain.DelaymS(100);
                     }
@@ -1581,7 +1588,10 @@ namespace ATS
                                    File.ReadAllText(debugPath).Trim().Equals("True", StringComparison.OrdinalIgnoreCase);
 
                     camera_set_step("check_led_on");
-                    set_timeout(isDebug ? "999999000" : ((int)((timeoutSec - 1) * 1000)).ToString());
+                    set_timeout(isDebug ? "999999000" : ((int)((timeoutSec) * 1000)).ToString());
+
+                    const string pathTrick = "call_exe_tric.txt";
+                    File.Delete(pathTrick);
 
                     Process process = new Process();
                     process.StartInfo.CreateNoWindow = false;
@@ -1590,6 +1600,10 @@ namespace ATS
 
                     try { process.Start(); } catch { }
 
+                    DateTime trickDeadline = DateTime.Now.AddSeconds(10);
+                    while (!File.Exists(pathTrick) && DateTime.Now < trickDeadline && fMain.GlobalTestingFlag[fMain.select_test - 1])
+                        fMain.DelaymS(100);
+
                     if (isDebug)
                     {
                         while (!File.Exists(pathResult) && fMain.GlobalTestingFlag[fMain.select_test - 1])
@@ -1597,7 +1611,7 @@ namespace ATS
                     }
                     else
                     {
-                        DateTime deadline = DateTime.Now.AddSeconds(timeoutSec);
+                        DateTime deadline = DateTime.Now.AddSeconds(timeoutSec + 10);
                         while (!File.Exists(pathResult) && DateTime.Now < deadline)
                             fMain.DelaymS(100);
                     }
