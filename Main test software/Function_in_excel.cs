@@ -179,6 +179,8 @@ namespace ATS
                 _tp33ResultsReady = false; _tp33Results = null;
                 _ledDetectDone = false; _ledResults = null;
                 _ledOnDetectDone = false; _ledOnResults = null;
+                _calibrateSimDone = false;
+                _calibrateDone = false; _calibrateConfirmed = false;
                 _daq = null;
             }
         }
@@ -710,6 +712,9 @@ namespace ATS
         private static string[] _ledResults;
         private static bool   _ledOnDetectDone;
         private static string[] _ledOnResults;
+        private static bool   _calibrateSimDone;
+        private static bool   _calibrateDone;
+        private static bool   _calibrateConfirmed;
         private static string[] serialTeamSup = new string[36];
         public void Read2DBarCode()
         {
@@ -1411,9 +1416,247 @@ namespace ATS
                 fMain.UpdateResultToDataGrid(alice[0], "DAQ error", "FAIL");
                 return;
             }
-            double currentMa = _daqResults[boardIndex];
+            double currentMa = _daqResults[boardIndex] + ReadCurrentOffset(boardIndex);
             bool pass = currentMa >= minMa && currentMa <= maxMa;
             fMain.UpdateResultToDataGrid(alice[0], currentMa.ToString("F2") + " mA", pass ? "PASS" : "FAIL");
+        }
+
+        private static double ReadCurrentOffset(int boardIndex)
+        {
+            const string offsetPath = "../../config/ac_current_offset.txt";
+            if (!File.Exists(offsetPath)) return 0.0;
+            try
+            {
+                foreach (string line in File.ReadAllLines(offsetPath))
+                {
+                    string[] parts = line.Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                    if (parts.Length < 2) continue;
+                    if (!parts[0].ToUpper().StartsWith("DUT")) continue;
+                    if (!int.TryParse(parts[0].Substring(3), out int idx)) continue;
+                    if (idx - 1 != boardIndex) continue;
+                    if (double.TryParse(parts[1], System.Globalization.NumberStyles.Any,
+                            System.Globalization.CultureInfo.InvariantCulture, out double off))
+                        return off;
+                }
+            }
+            catch { }
+            return 0.0;
+        }
+
+        public void Calibrate_current_offset(string goldenFilePath)
+        {
+            goldenFilePath = goldenFilePath.Trim('"').Replace('–', '-').Replace('—', '-');
+
+            lock (_panelSNLock)
+            {
+                if (!_calibrateDone)
+                {
+                    int count = fMain.configTester.numHead;
+
+                    double[] golden = new double[count];
+                    try
+                    {
+                        foreach (string line in File.ReadAllLines(goldenFilePath))
+                        {
+                            string[] parts = line.Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                            if (parts.Length < 2) continue;
+                            if (!parts[0].ToUpper().StartsWith("DUT")) continue;
+                            if (!int.TryParse(parts[0].Substring(3), out int idx) || idx < 1 || idx > count) continue;
+                            double.TryParse(parts[1], System.Globalization.NumberStyles.Any,
+                                System.Globalization.CultureInfo.InvariantCulture, out golden[idx - 1]);
+                        }
+                    }
+                    catch { }
+
+                    double[] measured = new double[count];
+                    try
+                    {
+                        var daq = new NIDAQTester12.DaqManager12();
+                        daq.Initialize(5000, 500);
+                        daq.Start();
+                        var m = daq.ReadBlock();
+                        for (int i = 0; i < count; i++)
+                            measured[i] = m.LineCurrentRms[i] * 1000.0;
+                    }
+                    catch { }
+
+                    double[] offsets = new double[count];
+                    for (int i = 0; i < count; i++)
+                        offsets[i] = golden[i] - measured[i];
+
+                    bool confirmed = false;
+                    fMain.Invoke((Action)(() =>
+                    {
+                        using (Form popup = new Form())
+                        {
+                            popup.Text = "AC Current Calibration";
+                            popup.Size = new Size(620, 450);
+                            popup.StartPosition = FormStartPosition.CenterScreen;
+                            popup.FormBorderStyle = FormBorderStyle.FixedDialog;
+                            popup.MaximizeBox = false;
+                            popup.MinimizeBox = false;
+
+                            DataGridView grid = new DataGridView();
+                            grid.Dock = DockStyle.Fill;
+                            grid.ReadOnly = true;
+                            grid.AllowUserToAddRows = false;
+                            grid.AllowUserToDeleteRows = false;
+                            grid.RowHeadersVisible = false;
+                            grid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                            grid.Columns.Add("dut",      "DUT");
+                            grid.Columns.Add("expected", "Expected (mA)");
+                            grid.Columns.Add("measured", "Measured (mA)");
+                            grid.Columns.Add("offset",   "Offset (mA)");
+
+                            for (int i = 0; i < count; i++)
+                                grid.Rows.Add(
+                                    "DUT " + (i + 1),
+                                    golden[i].ToString("F3"),
+                                    measured[i].ToString("F3"),
+                                    offsets[i].ToString("F3"));
+
+                            Button btnConfirm = new Button { Text = "Confirm (Save Offset)", DialogResult = DialogResult.OK,     Width = 160, Height = 30 };
+                            Button btnSkip    = new Button { Text = "Skip",                  DialogResult = DialogResult.Cancel, Width = 80,  Height = 30 };
+
+                            FlowLayoutPanel btnPanel = new FlowLayoutPanel
+                            {
+                                FlowDirection = FlowDirection.RightToLeft,
+                                Height = 42,
+                                Dock = DockStyle.Bottom,
+                                Padding = new Padding(0, 5, 5, 0)
+                            };
+                            btnPanel.Controls.Add(btnConfirm);
+                            btnPanel.Controls.Add(btnSkip);
+
+                            popup.Controls.Add(grid);
+                            popup.Controls.Add(btnPanel);
+                            popup.AcceptButton = btnConfirm;
+                            popup.CancelButton = btnSkip;
+
+                            confirmed = popup.ShowDialog() == DialogResult.OK;
+                        }
+                    }));
+
+                    if (confirmed)
+                    {
+                        const string offsetPath = "../../config/ac_current_offset.txt";
+                        var sb = new System.Text.StringBuilder();
+                        for (int i = 0; i < count; i++)
+                            sb.AppendLine("DUT" + (i + 1) + " " + offsets[i].ToString("F4", System.Globalization.CultureInfo.InvariantCulture));
+                        try { File.WriteAllText(offsetPath, sb.ToString()); } catch { }
+                    }
+
+                    _calibrateConfirmed = confirmed;
+                    _calibrateDone = true;
+                }
+            }
+
+            fMain.UpdateResultToDataGrid(alice[0], _calibrateConfirmed ? "Offset saved" : "Skipped", _calibrateConfirmed ? "PASS" : "FAIL");
+        }
+
+        // Temporary function — uses random measured values for UI testing without NI hardware
+        public void Calibrate_current_offset_simulate(string goldenFilePath)
+        {
+            goldenFilePath = goldenFilePath.Trim('"').Replace('–', '-').Replace('—', '-');
+
+            lock (_panelSNLock)
+            {
+                if (!_calibrateSimDone)
+                {
+                    int count = fMain.configTester.numHead;
+
+                    double[] golden = new double[count];
+                    try
+                    {
+                        foreach (string line in File.ReadAllLines(goldenFilePath))
+                        {
+                            string[] parts = line.Trim().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                            if (parts.Length < 2) continue;
+                            if (!parts[0].ToUpper().StartsWith("DUT")) continue;
+                            if (!int.TryParse(parts[0].Substring(3), out int idx) || idx < 1 || idx > count) continue;
+                            double.TryParse(parts[1], System.Globalization.NumberStyles.Any,
+                                System.Globalization.CultureInfo.InvariantCulture, out golden[idx - 1]);
+                        }
+                    }
+                    catch { }
+
+                    double[] measured = new double[count];
+                    var rnd = new Random();
+                    for (int i = 0; i < count; i++)
+                        measured[i] = golden[i] + (rnd.NextDouble() * 1.0 - 0.5);
+
+                    double[] offsets = new double[count];
+                    for (int i = 0; i < count; i++)
+                        offsets[i] = golden[i] - measured[i];
+
+                    bool confirmed = false;
+                    fMain.Invoke((Action)(() =>
+                    {
+                        using (Form popup = new Form())
+                        {
+                            popup.Text = "AC Current Calibration [SIMULATED]";
+                            popup.Size = new Size(620, 450);
+                            popup.StartPosition = FormStartPosition.CenterScreen;
+                            popup.FormBorderStyle = FormBorderStyle.FixedDialog;
+                            popup.MaximizeBox = false;
+                            popup.MinimizeBox = false;
+
+                            DataGridView grid = new DataGridView();
+                            grid.Dock = DockStyle.Fill;
+                            grid.ReadOnly = true;
+                            grid.AllowUserToAddRows = false;
+                            grid.AllowUserToDeleteRows = false;
+                            grid.RowHeadersVisible = false;
+                            grid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+                            grid.Columns.Add("dut",      "DUT");
+                            grid.Columns.Add("expected", "Expected (mA)");
+                            grid.Columns.Add("measured", "Measured (mA) [SIM]");
+                            grid.Columns.Add("offset",   "Offset (mA)");
+
+                            for (int i = 0; i < count; i++)
+                                grid.Rows.Add(
+                                    "DUT " + (i + 1),
+                                    golden[i].ToString("F3"),
+                                    measured[i].ToString("F3"),
+                                    offsets[i].ToString("F3"));
+
+                            Button btnConfirm = new Button { Text = "Confirm (Save Offset)", DialogResult = DialogResult.OK,     Width = 160, Height = 30 };
+                            Button btnSkip    = new Button { Text = "Skip",                  DialogResult = DialogResult.Cancel, Width = 80,  Height = 30 };
+
+                            FlowLayoutPanel btnPanel = new FlowLayoutPanel
+                            {
+                                FlowDirection = FlowDirection.RightToLeft,
+                                Height = 42,
+                                Dock = DockStyle.Bottom,
+                                Padding = new Padding(0, 5, 5, 0)
+                            };
+                            btnPanel.Controls.Add(btnConfirm);
+                            btnPanel.Controls.Add(btnSkip);
+
+                            popup.Controls.Add(grid);
+                            popup.Controls.Add(btnPanel);
+                            popup.AcceptButton = btnConfirm;
+                            popup.CancelButton = btnSkip;
+
+                            confirmed = popup.ShowDialog() == DialogResult.OK;
+                        }
+                    }));
+
+                    if (confirmed)
+                    {
+                        const string offsetPath = "../../config/ac_current_offset.txt";
+                        var sb = new System.Text.StringBuilder();
+                        for (int i = 0; i < count; i++)
+                            sb.AppendLine("DUT" + (i + 1) + " " + offsets[i].ToString("F4", System.Globalization.CultureInfo.InvariantCulture));
+                        try { File.WriteAllText(offsetPath, sb.ToString()); } catch { }
+                    }
+
+                    _calibrateConfirmed = confirmed;
+                    _calibrateSimDone = true;
+                }
+            }
+
+            fMain.UpdateResultToDataGrid(alice[0], _calibrateConfirmed ? "Offset saved" : "Skipped", _calibrateConfirmed ? "PASS" : "FAIL");
         }
 
         public void Measure_tp37_voltage()
