@@ -31,9 +31,9 @@ namespace camera_show {
         private void SetAllPath() {
             setPath.HeadTxt   = AppFilePath.Folder + global.Head;
             setPath.HeadCsv   = MinMaxKey.Head      + global.Head;
-            setPath.MinmaxCsv = MinMaxKey.NameFile   + global.StepTest;
+            setPath.MinmaxCsv = Path.Combine(AppFilePath.ConfigRoot, MinMaxKey.NameFile + global.StepTest);
             setPath.ResultTxt = "test_head_" + global.Head + "_result.txt";
-            setPath.StepCsv   = "cameraStep_" + global.StepTest;
+            setPath.StepCsv   = Path.Combine(AppFilePath.ConfigRoot, "cameraStep_" + global.StepTest);
         }
 
         private void GenFileList() {

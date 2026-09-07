@@ -78,12 +78,18 @@ namespace camera_show {
             setupPay.SelectTab = SetupPay.tabPage.TAB1;
             setupPay.set_nameTab(setPath.MinmaxCsv);
             setupPay.SelectTab = SetupPay.tabPage.TAB2;
-            setupPay.set_nameTab("cameraStep_" + global.StepTest);
+            setupPay.set_nameTab(setPath.StepCsv);
             setupPay.setup();
             setCamera = new SetCamera(this);
         }
 
         private void Form1_Load(object sender, EventArgs e) {
+            if (!AppFilePath.Initialize(out string initError)) {
+                MessageBox.Show(initError, "Startup Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                this.Close();
+                return;
+            }
+
             GetHead();
             GetStepTest();
             SetAllPath();

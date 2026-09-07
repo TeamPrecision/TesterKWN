@@ -316,7 +316,7 @@ namespace camera_show {
                 flag.ComPear = true;
                 addStepComparToolStripMenuItem.Visible = true;
                 ctms_RoiCrop_.Visible                 = true;
-                setPath.FolderCompare = "../../config/" + global.StepTest + "/";
+                setPath.FolderCompare = Path.Combine(AppFilePath.ConfigRoot, global.StepTest) + Path.DirectorySeparatorChar;
                 if (!Directory.Exists(setPath.FolderCompare))
                     Directory.CreateDirectory(setPath.FolderCompare);
                 Application.Idle += CompearImageMode;
@@ -324,7 +324,7 @@ namespace camera_show {
             } else if (global.StepTest.Contains(CameraMode.CheckLed)) {
                 flag.CheckLed = true;
                 addStepLedToolStripMenuItem.Visible = true;
-                setPath.FolderCheckLed = "../../config/" + global.StepTest + "/";
+                setPath.FolderCheckLed = Path.Combine(AppFilePath.ConfigRoot, global.StepTest) + Path.DirectorySeparatorChar;
                 if (!Directory.Exists(setPath.FolderCheckLed))
                     Directory.CreateDirectory(setPath.FolderCheckLed);
                 InitCheckLedMode();
@@ -332,7 +332,7 @@ namespace camera_show {
 
             } else if (global.StepTest.Contains(CameraMode.BlinkLed)) {
                 flag.BlinkLed = true;
-                setPath.FolderBlinkLed = "../../config/" + global.StepTest + "/";
+                setPath.FolderBlinkLed = Path.Combine(AppFilePath.ConfigRoot, global.StepTest) + Path.DirectorySeparatorChar;
                 if (!Directory.Exists(setPath.FolderBlinkLed))
                     Directory.CreateDirectory(setPath.FolderBlinkLed);
                 Application.Idle += BlinkLedMode;

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\",
+  "WorkspaceRootPath": "D:\\Github\\TesterKWN\\CameraKWN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|d:\\svn\\2025_12_kwn_sample_fixture\\2.design_documents\\7.test_application\\camerakwn\\form1.menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|d:\\github\\testerkwn\\camerakwn\\form1.menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|solutionrelative:form1.menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\Github\\TesterKWN\\CameraKWN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\Github\\TesterKWN\\CameraKWN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\form1.modes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\Github\\TesterKWN\\CameraKWN\\form1.modes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|solutionrelative:form1.modes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\models\\appglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|D:\\Github\\TesterKWN\\CameraKWN\\models\\appglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9623DF6-07FE-4666-B700-75058591712B}|camera_show.csproj|solutionrelative:models\\appglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.Menu.cs",
-              "DocumentMoniker": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.Menu.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.Menu.cs",
               "RelativeDocumentMoniker": "Form1.Menu.cs",
-              "ToolTip": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.Menu.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.Menu.cs",
               "RelativeToolTip": "Form1.Menu.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAowLYAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAPEAAAAAAAAAAAApwP8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T09:03:15.602Z",
               "EditorCaption": ""
@@ -49,10 +49,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T07:50:21.109Z"
             },
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Modes.cs",
-              "DocumentMoniker": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.Modes.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.Modes.cs",
               "RelativeDocumentMoniker": "Form1.Modes.cs",
-              "ToolTip": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.Modes.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.Modes.cs",
               "RelativeToolTip": "Form1.Modes.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAewF4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AppGlobal.cs",
-              "DocumentMoniker": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Models\\AppGlobal.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\CameraKWN\\Models\\AppGlobal.cs",
               "RelativeDocumentMoniker": "Models\\AppGlobal.cs",
-              "ToolTip": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Models\\AppGlobal.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\CameraKWN\\Models\\AppGlobal.cs",
               "RelativeToolTip": "Models\\AppGlobal.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.cs",
+              "DocumentMoniker": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\svn\\2025_12_KWN_sample_fixture\\2.Design_Documents\\7.Test_Application\\CameraKWN\\Form1.cs",
+              "ToolTip": "D:\\Github\\TesterKWN\\CameraKWN\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAawJMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

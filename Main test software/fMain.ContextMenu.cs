@@ -701,7 +701,7 @@ namespace ATS
                 break;
             }
             prism_retest_text_pass.Text = asd;
-            File.WriteAllText("../../config/prism_retest_text_pass.txt", asd);
+            File.WriteAllText(Program.ConfigPath + "prism_retest_text_pass.txt", asd);
         }
         private void prism_retest_text_fail_Click(object sender, EventArgs e)
         {
@@ -717,7 +717,7 @@ namespace ATS
             }
 
             prism_retest_text_fail.Text = asd;
-            File.WriteAllText("../../config/prism_retest_text_fail.txt", asd);
+            File.WriteAllText(Program.ConfigPath + "prism_retest_text_fail.txt", asd);
         }
         private void ctms_excel_saveFile_sup()
         {

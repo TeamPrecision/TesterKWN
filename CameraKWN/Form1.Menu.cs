@@ -253,7 +253,7 @@ namespace camera_show {
             if (string.IsNullOrEmpty(input)) return;
             if (!int.TryParse(input, out int result)) { MessageBox.Show("not format"); return; }
             ctms_roiCrop.Text = result.ToString();
-            File.WriteAllText("../../config/CameraShow_RoiCrop.txt", ctms_roiCrop.Text);
+            File.WriteAllText(AppFilePath.ConfigRoot + "CameraShow_RoiCrop.txt", ctms_roiCrop.Text);
         }
 
         // ── SetCamera form closed ─────────────────────────────────────────────

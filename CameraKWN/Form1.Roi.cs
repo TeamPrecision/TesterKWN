@@ -46,7 +46,7 @@ namespace camera_show {
             // Read optional crop padding from config
             int crop = 10;
             try {
-                string txt = File.ReadAllText("../../config/CameraShow_RoiCrop.txt");
+                string txt = File.ReadAllText(AppFilePath.ConfigRoot + "CameraShow_RoiCrop.txt");
                 if (!string.IsNullOrEmpty(txt))
                     crop = Convert.ToInt32(txt);
             } catch { }

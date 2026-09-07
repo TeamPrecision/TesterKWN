@@ -468,12 +468,12 @@ namespace ATS
 
         public void camera_set_step(string cmd = "read2d")
         {
-            File.WriteAllText("../../config/test_head_1_steptest.txt", cmd);
+            File.WriteAllText(Program.ConfigPath + "test_head_1_steptest.txt", cmd);
             File.Delete("test_head_1_result.txt");
         }
         public void set_timeout(string cmd = "1000")
         {
-            File.WriteAllText("../../config/test_head_1_timeout.txt", cmd);
+            File.WriteAllText(Program.ConfigPath + "test_head_1_timeout.txt", cmd);
         }
         public void camera_set_list()
         {
@@ -750,7 +750,7 @@ namespace ATS
                     return;
                 }
 
-                File.WriteAllText("../../config/head.txt", fMain.select_test.ToString());
+                File.WriteAllText(Program.ConfigPath + "head.txt", fMain.select_test.ToString());
                 camera_set_step("read2d");
                 camera_set_list();
                 set_timeout("5000");
@@ -1022,11 +1022,11 @@ namespace ATS
 
         public void SettimeDelayExe(string cmd = "")
         {
-            File.WriteAllText("../../config/delay_" + fMain.select_test + "_time.txt", cmd);
+            File.WriteAllText(Program.ConfigPath + "delay_" + fMain.select_test + "_time.txt", cmd);
         }
         public void SetDisplayDelayExe(string cmd = "")
         {
-            File.WriteAllText("../../config/delay_" + fMain.select_test + "_display.txt", cmd);
+            File.WriteAllText(Program.ConfigPath + "delay_" + fMain.select_test + "_display.txt", cmd);
         }
         public void GenCommandUpFw()
         {
@@ -1423,7 +1423,7 @@ namespace ATS
 
         private static double ReadCurrentOffset(int boardIndex)
         {
-            const string offsetPath = "../../config/ac_current_offset.txt";
+            string offsetPath = Program.ConfigPath + "ac_current_offset.txt";
             if (!File.Exists(offsetPath)) return 0.0;
             try
             {
@@ -1539,7 +1539,7 @@ namespace ATS
 
                     if (confirmed)
                     {
-                        const string offsetPath = "../../config/ac_current_offset.txt";
+                        string offsetPath = Program.ConfigPath + "ac_current_offset.txt";
                         var sb = new System.Text.StringBuilder();
                         for (int i = 0; i < count; i++)
                             sb.AppendLine("DUT" + (i + 1) + " " + offsets[i].ToString("F4", System.Globalization.CultureInfo.InvariantCulture));
@@ -1644,7 +1644,7 @@ namespace ATS
 
                     if (confirmed)
                     {
-                        const string offsetPath = "../../config/ac_current_offset.txt";
+                        string offsetPath = Program.ConfigPath + "ac_current_offset.txt";
                         var sb = new System.Text.StringBuilder();
                         for (int i = 0; i < count; i++)
                             sb.AppendLine("DUT" + (i + 1) + " " + offsets[i].ToString("F4", System.Globalization.CultureInfo.InvariantCulture));
@@ -1755,7 +1755,7 @@ namespace ATS
                     File.Delete(pathResult);
 
                     double timeoutSec = Convert.ToDouble(timeout);
-                    string debugPath = "../../config/test_head_1_debug.txt";
+                    string debugPath = Program.ConfigPath + "test_head_1_debug.txt";
                     bool isDebug = File.Exists(debugPath) &&
                                    File.ReadAllText(debugPath).Trim().Equals("True", StringComparison.OrdinalIgnoreCase);
 
@@ -1826,7 +1826,7 @@ namespace ATS
                     File.Delete(pathResult);
 
                     double timeoutSec = Convert.ToDouble(timeout);
-                    string debugPath = "../../config/test_head_1_debug.txt";
+                    string debugPath = Program.ConfigPath + "test_head_1_debug.txt";
                     bool isDebug = File.Exists(debugPath) &&
                                    File.ReadAllText(debugPath).Trim().Equals("True", StringComparison.OrdinalIgnoreCase);
 

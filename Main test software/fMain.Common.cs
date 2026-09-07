@@ -1556,7 +1556,7 @@ namespace ATS
                 case 35: if (set_debug_35.Checked) timeout_result[select_test - 1] = 99999999; break;
                 case 36: if (set_debug_36.Checked) timeout_result[select_test - 1] = 99999999; break;
             }
-            File.WriteAllText("../../config/head.txt", select_test.ToString());
+            File.WriteAllText(Program.ConfigPath + "head.txt", select_test.ToString());
             ProcessStartInfo startInfo = new ProcessStartInfo();
             startInfo.CreateNoWindow = false;
             startInfo.UseShellExecute = false;
@@ -1628,7 +1628,7 @@ namespace ATS
                 case 35: if (set_debug_35.Checked) timeout_result[select_test - 1] = 99999999; break;
                 case 36: if (set_debug_36.Checked) timeout_result[select_test - 1] = 99999999; break;
             }
-            File.WriteAllText("../../config/head.txt", select_test.ToString());
+            File.WriteAllText(Program.ConfigPath + "head.txt", select_test.ToString());
             ProcessStartInfo startInfo = new ProcessStartInfo();
             startInfo.CreateNoWindow = true;
             startInfo.UseShellExecute = false;
@@ -2141,7 +2141,7 @@ namespace ATS
                 if (!configTester.useRelayCard) flag_head[i - 1] = true;
                 else flag_head[i - 1] = false;
                 c.Visible = true;
-                File.WriteAllText("../../config/test_head_" + i + "_debug.txt", c.Checked.ToString());
+                File.WriteAllText(Program.ConfigPath + "test_head_" + i + "_debug.txt", c.Checked.ToString());
             }
             configTester.ScrollDatagrid = setupPay.read_text(ConfigTester.Header.ScrollDatagrid, configTester.nameFile);
 
@@ -2160,8 +2160,8 @@ namespace ATS
             configTester.saveData = setupPay.read_text(ConfigTester.Header.saveData, configTester.nameFile);
             configPrism.digitSN = setupPay.read_text(ConfigPrism.Header.digitSN, configPrism.nameFile);
             configPrism.upDataToKomson = Convert.ToBoolean(setupPay.read_text(ConfigPrism.Header.upDataToKomson, configPrism.nameFile));
-            try { prism_retest_text_pass.Text = File.ReadAllText("../../config/prism_retest_text_pass.txt"); } catch { }
-            try { prism_retest_text_fail.Text = File.ReadAllText("../../config/prism_retest_text_fail.txt"); } catch { }
+            try { prism_retest_text_pass.Text = File.ReadAllText(Program.ConfigPath + "prism_retest_text_pass.txt"); } catch { }
+            try { prism_retest_text_fail.Text = File.ReadAllText(Program.ConfigPath + "prism_retest_text_fail.txt"); } catch { }
             configPrism.processBeforeText = setupPay.read_text(ConfigPrism.Header.ProcessBefore, configPrism.nameFile);
             configTester.click2ClearSN = Convert.ToBoolean(setupPay.read_text(ConfigTester.Header.click2ClearSN, configTester.nameFile));
             configTester.showCMD = Convert.ToBoolean(setupPay.read_text(ConfigTester.Header.showCMD, configTester.nameFile));

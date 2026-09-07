@@ -168,7 +168,7 @@ namespace ATS
             tcpip.Dispose();
             for (int i = 1; i <= configTester.numHead; i++)
             {
-                File.Delete("../../config/test_head_" + i + "_debug.txt");
+                File.Delete(Program.ConfigPath + "test_head_" + i + "_debug.txt");
             }
             CloseUpDataExe();
             ClosePipeServer();
@@ -1176,152 +1176,152 @@ namespace ATS
             for (int i = 0; i < configTester.numHead; i++)
             {
                 allDebug[i].Checked = val;
-                File.WriteAllText("../../config/test_head_" + (i + 1) + "_debug.txt", val.ToString());
+                File.WriteAllText(Program.ConfigPath + "test_head_" + (i + 1) + "_debug.txt", val.ToString());
             }
         }
         private void head1ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_1_debug.txt", set_debug_1.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_1_debug.txt", set_debug_1.Checked.ToString());
         }
         private void head2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_2_debug.txt", set_debug_2.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_2_debug.txt", set_debug_2.Checked.ToString());
         }
         private void head3ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_3_debug.txt", set_debug_3.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_3_debug.txt", set_debug_3.Checked.ToString());
         }
         private void head4ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_4_debug.txt", set_debug_4.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_4_debug.txt", set_debug_4.Checked.ToString());
         }
         private void head5ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_5_debug.txt", set_debug_5.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_5_debug.txt", set_debug_5.Checked.ToString());
         }
         private void head6ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_6_debug.txt", set_debug_6.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_6_debug.txt", set_debug_6.Checked.ToString());
         }
         private void head7ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_7_debug.txt", set_debug_7.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_7_debug.txt", set_debug_7.Checked.ToString());
         }
         private void head8ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_8_debug.txt", set_debug_8.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_8_debug.txt", set_debug_8.Checked.ToString());
         }
         private void head9ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_9_debug.txt", set_debug_9.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_9_debug.txt", set_debug_9.Checked.ToString());
         }
         private void head10ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_10_debug.txt", set_debug_10.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_10_debug.txt", set_debug_10.Checked.ToString());
         }
         private void set_debug_11_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_11_debug.txt", set_debug_11.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_11_debug.txt", set_debug_11.Checked.ToString());
         }
         private void set_debug_12_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_12_debug.txt", set_debug_12.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_12_debug.txt", set_debug_12.Checked.ToString());
         }
         private void set_debug_13_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_13_debug.txt", set_debug_13.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_13_debug.txt", set_debug_13.Checked.ToString());
         }
         private void set_debug_14_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_14_debug.txt", set_debug_14.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_14_debug.txt", set_debug_14.Checked.ToString());
         }
         private void set_debug_15_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_15_debug.txt", set_debug_15.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_15_debug.txt", set_debug_15.Checked.ToString());
         }
         private void set_debug_16_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_16_debug.txt", set_debug_16.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_16_debug.txt", set_debug_16.Checked.ToString());
         }
         private void set_debug_17_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_17_debug.txt", set_debug_17.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_17_debug.txt", set_debug_17.Checked.ToString());
         }
         private void set_debug_18_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_18_debug.txt", set_debug_18.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_18_debug.txt", set_debug_18.Checked.ToString());
         }
         private void set_debug_19_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_19_debug.txt", set_debug_19.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_19_debug.txt", set_debug_19.Checked.ToString());
         }
         private void set_debug_20_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_20_debug.txt", set_debug_20.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_20_debug.txt", set_debug_20.Checked.ToString());
         }
         private void set_debug_21_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_21_debug.txt", set_debug_21.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_21_debug.txt", set_debug_21.Checked.ToString());
         }
         private void set_debug_22_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_22_debug.txt", set_debug_22.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_22_debug.txt", set_debug_22.Checked.ToString());
         }
         private void set_debug_23_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_23_debug.txt", set_debug_23.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_23_debug.txt", set_debug_23.Checked.ToString());
         }
         private void set_debug_24_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_24_debug.txt", set_debug_24.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_24_debug.txt", set_debug_24.Checked.ToString());
         }
         private void set_debug_25_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_25_debug.txt", set_debug_25.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_25_debug.txt", set_debug_25.Checked.ToString());
         }
         private void set_debug_26_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_26_debug.txt", set_debug_26.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_26_debug.txt", set_debug_26.Checked.ToString());
         }
         private void set_debug_27_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_27_debug.txt", set_debug_27.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_27_debug.txt", set_debug_27.Checked.ToString());
         }
         private void set_debug_28_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_28_debug.txt", set_debug_28.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_28_debug.txt", set_debug_28.Checked.ToString());
         }
         private void set_debug_29_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_29_debug.txt", set_debug_29.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_29_debug.txt", set_debug_29.Checked.ToString());
         }
         private void set_debug_30_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_30_debug.txt", set_debug_30.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_30_debug.txt", set_debug_30.Checked.ToString());
         }
         private void set_debug_31_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_31_debug.txt", set_debug_31.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_31_debug.txt", set_debug_31.Checked.ToString());
         }
         private void set_debug_32_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_32_debug.txt", set_debug_32.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_32_debug.txt", set_debug_32.Checked.ToString());
         }
         private void set_debug_33_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_33_debug.txt", set_debug_33.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_33_debug.txt", set_debug_33.Checked.ToString());
         }
         private void set_debug_34_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_34_debug.txt", set_debug_34.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_34_debug.txt", set_debug_34.Checked.ToString());
         }
         private void set_debug_35_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_35_debug.txt", set_debug_35.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_35_debug.txt", set_debug_35.Checked.ToString());
         }
         private void set_debug_36_Click(object sender, EventArgs e)
         {
-            File.WriteAllText("../../config/test_head_36_debug.txt", set_debug_36.Checked.ToString());
+            File.WriteAllText(Program.ConfigPath + "test_head_36_debug.txt", set_debug_36.Checked.ToString());
         }
         private void show_data_grid_Click(object sender, EventArgs e)
         {

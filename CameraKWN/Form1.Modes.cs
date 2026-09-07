@@ -281,7 +281,7 @@ namespace camera_show {
                                 if (!global.StopWatchShow.IsRunning)
                                     global.StopWatchShow.Restart();
                                 int checkTime = 1000;
-                                try { checkTime = Convert.ToInt32(File.ReadAllText("../../config/time_checkcompare.txt")); } catch { }
+                                try { checkTime = Convert.ToInt32(File.ReadAllText(AppFilePath.ConfigRoot + "time_checkcompare.txt")); } catch { }
                                 if (global.StopWatchShow.ElapsedMilliseconds < checkTime) return;
                             }
 
@@ -399,7 +399,7 @@ namespace camera_show {
             // ── Grab frame ────────────────────────────────────────────────────
             try {
                 using (Mat frame = setCamera.HsvTestFlag
-                    ? new Mat("../../config/hsv_test.png")
+                    ? new Mat(AppFilePath.ConfigRoot + "hsv_test.png")
                     : setCamera.Capture.QueryFrame()) {
                     var oldBgr = global.UpdateImage(frame.ToImage<Bgr, byte>());
                     var oldHsv = global.UpdateImageHsv(frame.ToImage<Hsv, byte>());
@@ -549,7 +549,7 @@ namespace camera_show {
 
             try {
                 using (Mat frame = setCamera.HsvTestFlag
-                    ? new Mat("../../config/hsv_test.png")
+                    ? new Mat(AppFilePath.ConfigRoot + "hsv_test.png")
                     : setCamera.Capture.QueryFrame()) {
                     var oldBgr = global.UpdateImage(frame.ToImage<Bgr, byte>());
                     var oldHsv = global.UpdateImageHsv(frame.ToImage<Hsv, byte>());
